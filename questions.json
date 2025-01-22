@@ -9,6 +9,21 @@
         "question": "Quelle est la fonction pour afficher un message en Python ?",
         "options": ["print()", "input()", "len()"],
         "repense": "print()"
+      },
+      {
+        "question": "Quel symbole est utilise pour ecrire un commentaire en Python ?",
+        "options": ["#", "//", "/**/"],
+        "repense": "#"
+      },
+      {
+        "question": "Quel est le resultat de 5 // 2 en Python ?",
+        "options": ["2.5", "2", "1"],
+        "repense": "2"
+      },
+      {
+        "question": "Quelle est la syntaxe correcte pour definir une fonction ?",
+        "options": ["function ma_fonction():", "def ma_fonction():", "fun ma_fonction():"],
+        "repense": "def ma_fonction():"
       }
     ],
     "Algorithme": [
@@ -43,16 +58,6 @@
         "question": "Quel protocole est utilise pour envoyer des courriels ?",
         "options": ["HTTP", "SMTP", "FTP"],
         "repense": "SMTP"
-      },
-      {
-        "question": "Quelle est la couche du modele OSI responsable de ladressage IP ?",
-        "options": ["Couche reseau", "Couche transport", "Couche application"],
-        "repense": "Couche reseau"
-      },
-      {
-        "question": "Quel est le role principal d'un routeur ?",
-        "options": ["Acheminer les paquets", "Proteger le reseau", "Connecter les cables"],
-        "repense": "Acheminer les paquets"
       }
     ]
   }
