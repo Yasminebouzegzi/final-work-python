@@ -139,8 +139,11 @@ voulez_vous consulter votre score (o/n) ?! :o
 
 [&#39;Utilisateur&#39;, &#39;Score&#39;, &#39;Date&#39;]
 [&#39;sarah&#39;, &#39;1&#39;, &#39;2025-01-22 20:51:58&#39;]
-Cas d&#39;un utilisateur ayant déjà joué :
-Entrez votre nom d&#39;utilisateur : sarah
+
+
+Cas un utilisateur ayant déjà joué :
+
+Entrez votre nom d'utilisateur : sarah
 ---------------------------------------------------------------
 Bienvenue de retour, sarah! Voici votre historique :
 - [La Date: 2025-01-22 20:52:01, Votre Score: 1
